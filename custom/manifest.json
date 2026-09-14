@@ -1,14 +1,14 @@
 {
   "music": [
-    { "name": "Lo-Fi Beats", "file": "music/lofi.mp3" }
+    { "name": "Metal Crusher", "file": "music/metallica.mp3" }
   ],
   "icons": [
-    { "name": "Cool Icon", "file": "icons/cool.png" }
+    { "name": "Mettaton", "file": "icons/guy.png" }
   ],
   "cursors": [
-    { "name": "Red Cursor", "file": "cursors/red.png" }
+    { "name": "Heart", "file": "cursors/heart.webp" }
   ],
   "bg": [
-    { "name": "Space", "file": "bg/space.png" }
+    { "name": "Undertale", "file": "bg/tale.png" }
   ]
 }
