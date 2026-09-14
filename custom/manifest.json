@@ -1,0 +1,14 @@
+{
+  "music": [
+    { "name": "Lo-Fi Beats", "file": "music/lofi.mp3" }
+  ],
+  "icons": [
+    { "name": "Cool Icon", "file": "icons/cool.png" }
+  ],
+  "cursors": [
+    { "name": "Red Cursor", "file": "cursors/red.png" }
+  ],
+  "bg": [
+    { "name": "Space", "file": "bg/space.png" }
+  ]
+}
