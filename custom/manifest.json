@@ -1,14 +1,12 @@
 {
   "music": [
-    { "name": "Metal Crusher", "file": "music/metallica.mp3" }
   ],
   "icons": [
-    { "name": "Mettaton", "file": "icons/guy.png" }
   ],
   "cursors": [
-    { "name": "Heart", "file": "cursors/heart.webp" }
+    { "name": "Speed Coil", "file": "cursors/coil.png" }
   ],
   "bg": [
-    { "name": "Undertale", "file": "bg/tale.png" }
+    { "name": "Die Of Death", "file": "bg/OIP.webp" }
   ]
 }
